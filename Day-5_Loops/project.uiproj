@@ -1,0 +1,6 @@
+{
+  "Name": "Loops",
+  "ProjectType": "Process",
+  "Description": "While Do-While For-Each",
+  "MainFile": "While_loops.xaml"
+}
